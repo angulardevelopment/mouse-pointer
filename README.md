@@ -1,7 +1,8 @@
 # About
 
 Follow mouse pointer
-
+In this app when your mouse pointer moves then it highlight the items. 
+			
 # Follow
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
